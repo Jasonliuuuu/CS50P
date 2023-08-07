@@ -30,7 +30,7 @@ Once you have Python installed, you can clone this repository to your local mach
 ```bash
 git clone https://github.com/Jasonliuuuu/CS50P.git
 
-
+```
 
 ## Usage
 
