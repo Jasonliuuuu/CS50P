@@ -7,4 +7,4 @@ def square(x):
 
 
 if __name__ == "__main__":  
-    main() 
+    main()  # call main function
